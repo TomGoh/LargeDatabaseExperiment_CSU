@@ -1,0 +1,446 @@
+
+SQL> insert into T_stud_J521 values ('8202180502','张二','女','17877781802','123456789c@qq.com','21-May-2000','8202180502','02');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8202180521','吴昊泽','男','17877781898','tom-goh@outlook.com','06-May-2000','8202180502','02');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8202180501','张一','男','17877781801','123456789b@qq.com','12-May-2000','8202180502','02');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8202180503','张三','男','17877781803','123456789d@qq.com','14-May-2000','8202180502','02');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8202180504','张四','女','17877781804','123456789e@qq.com','15-May-2000','8202180502','02');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8202180608','张八','男','17877781808','123456789i@qq.com','01-May-2000','8202180608','02');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8202180605','张五','女','17877781805','123456789f@qq.com','16-May-2000','8202180608','02');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8202180606','张六','男','17877781806','123456789g@qq.com','17-May-2000','8202180608','02');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8202180607','张七','女','17877781807','123456789h@qq.com','18-May-2000','8202180608','02');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8202180610','张九','女','17877781809','123456789j@qq.com','20-May-2000','8202180608','02');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8201180100','陈一','女','15906027689','987654321a@qq.com','21-Oct-2000','8201180100','01');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8201180102','陈二','男','15906027688','987654321b@qq.com','22-Oct-2000','8201180100','01');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8201180103','陈三','女','15906027687','987654321c@qq.com','23-Oct-2000','8201180100','01');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8201180104','陈四','男','15906027686','987654321d@qq.com','24-Oct-2000','8201180100','01');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8201180105','陈五','男','15906027685','987654321e@qq.com','25-Oct-2000','8201180100','01');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8201180106','陈六','女','15906027684','987654321z@qq.com','26-Oct-2000','8201180100','01');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8201180300','陈七','男','15906027682','987654321f@qq.com','20-Oct-2000','8201180300','01');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8201180301','陈八','女','15906027682','987654321g@qq.com','27-Oct-2000','8201180300','01');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8201180302','陈九','男','15906027681','987654321h@qq.com','28-Oct-2000','8201180300','01');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8201180303','陈十','男','15906027680','987654321i@qq.com','29-Oct-2000','8201180300','01');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8203181101','吴一','男','15985911469','456789123a@qq.com','22-Jan-2000','8203181101','03');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8203181102','吴二','女','15985911468','456789123b@qq.com','23-Oct-2000','8203181101','03');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8203181103','吴三','男','15985911467','456789123c@qq.com','24-Oct-2000','8203181101','03');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8203181104','吴四','男','15985911466','456789123d@qq.com','25-Oct-2000','8203181101','03');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8203181105','吴五','女','15985911465','456789123e@qq.com','26-Jan-2000','8203181101','03');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8203181301','吴六','男','15985911464','456789123f@qq.com','27-Jan-2000','8203181301','03');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8203181302','吴七','女','15985911463','456789123g@qq.com','28-Jan-2000','8203181301','03');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8203181303','吴八','男','15985911462','456789123h@qq.com','29-Jan-2000','8203181301','03');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8203181304','吴九','男','15985911461','456789123i@qq.com','30-Jan-2000','8203181301','03');
+
+1 row created.
+
+Commit complete.
+
+SQL> insert into T_stud_J521 values ('8203181305','吴十','女','15985911460','456789123j@qq.com','21-Jan-2000','8203181301','03');
+
+1 row created.
+
+Commit complete.
+
+
+
+SQL> create user U8201180100 identified by P8201180100 ;
+
+User created.
+
+SQL> create user U8201180102 identified by P8201180102 ;
+
+User created.
+
+SQL> create user U8201180103 identified by P8201180103 ;
+
+User created.
+
+SQL> create user U8201180104 identified by P8201180104 ;
+
+User created.
+
+SQL> create user U8201180105 identified by P8201180105 ;
+
+User created.
+
+SQL> create user U8201180106 identified by P8201180106 ;
+
+User created.
+
+SQL> create user U8201180300 identified by P8201180300 ;
+
+User created.
+
+SQL> create user U8201180301 identified by P8201180301 ;
+
+User created.
+
+SQL> create user U8201180302 identified by P8201180302 ;
+
+User created.
+
+SQL> create user U8201180303 identified by P8201180303 ;
+
+User created.
+
+SQL> create user U8202180501 identified by P8202180501 ;
+
+User created.
+
+SQL> create user U8202180502 identified by P8202180502 ;
+
+User created.
+
+SQL> create user U8202180503 identified by P8202180503 ;
+
+User created.
+
+SQL> create user U8202180504 identified by P8202180504 ;
+
+User created.
+
+SQL> create user U8202180521 identified by P8202180521 ;
+
+User created.
+
+SQL> create user U8202180605 identified by P8202180605 ;
+
+User created.
+
+SQL> create user U8202180606 identified by P8202180606 ;
+
+User created.
+
+SQL> create user U8202180607 identified by P8202180607 ;
+
+User created.
+
+SQL> create user U8202180608 identified by P8202180608 ;
+
+User created.
+
+SQL> create user U8202180610 identified by P8202180610 ;
+
+User created.
+
+SQL> create user U8203181101 identified by P8203181101 ;
+
+User created.
+
+SQL> create user U8203181102 identified by P8203181102 ;
+
+User created.
+
+SQL> create user U8203181103 identified by P8203181103 ;
+
+User created.
+
+SQL> create user U8203181104 identified by P8203181104 ;
+
+User created.
+
+SQL> create user U8203181105 identified by P8203181105 ;
+
+User created.
+
+SQL> create user U8203181301 identified by P8203181301 ;
+
+User created.
+
+SQL> create user U8203181302 identified by P8203181302 ;
+
+User created.
+
+SQL> create user U8203181303 identified by P8203181303 ;
+
+User created.
+
+SQL> create user U8203181304 identified by P8203181304 ;
+
+User created.
+
+SQL> create user U8203181305 identified by P8203181305 ;
+
+User created.
+
+SQL> create user U01 identified by P01;
+
+User created.
+
+SQL> create user U02 identified by P02;
+
+User created.
+
+SQL> create user U03 identified by P03;
+
+User created.
+
+SQL> grant connect to  U8201180100 ;
+
+Grant succeeded.
+
+SQL> grant connect to  U8201180102 ;
+
+Grant succeeded.
+
+SQL> grant connect to  U8201180103 ;
+
+Grant succeeded.
+
+SQL> grant connect to  U8201180104 ;
+
+Grant succeeded.
+
+SQL> grant connect to  U8201180105 ;
+
+Grant succeeded.
+
+SQL> grant connect to  U8201180106 ;
+
+Grant succeeded.
+
+SQL> grant connect to  U8201180300 ;
+
+Grant succeeded.
+
+SQL> grant connect to  U8201180301 ;
+
+Grant succeeded.
+
+SQL> grant connect to  U8201180302 ;
+
+Grant succeeded.
+
+SQL> grant connect to  U8201180303 ;
+
+Grant succeeded.
+
+SQL> grant connect to  U8202180501 ;
+
+Grant succeeded.
+
+SQL> grant connect to  U8202180502 ;
+
+Grant succeeded.
+
+SQL> grant connect to  U8202180503 ;
+
+Grant succeeded.
+
+SQL> grant connect to  U8202180504 ;
+
+Grant succeeded.
+
+SQL> grant connect to U8202180521 ;
+
+Grant succeeded.
+
+SQL> grant connect to U8202180605 ;
+
+Grant succeeded.
+
+SQL> grant connect to U8202180606 ;
+
+Grant succeeded.
+
+SQL> grant connect to U8202180607 ;
+
+Grant succeeded.
+
+SQL> grant connect to U8202180608 ;
+
+Grant succeeded.
+
+SQL> grant connect to U8202180610 ;
+
+Grant succeeded.
+
+SQL> grant connect to U8203181101 ;
+
+Grant succeeded.
+
+SQL> grant connect to U8203181102 ;
+
+Grant succeeded.
+
+SQL> grant connect to U8203181103 ;
+
+Grant succeeded.
+
+SQL> grant connect to U8203181104 ;
+
+Grant succeeded.
+
+SQL> grant connect to U8203181105 ;
+
+Grant succeeded.
+
+SQL> grant connect to U8203181301 ;
+
+Grant succeeded.
+
+SQL> grant connect to U8203181302 ;
+
+Grant succeeded.
+
+SQL> grant connect to U8203181303 ;
+
+Grant succeeded.
+
+SQL> grant connect to U8203181304 ;
+
+Grant succeeded.
+
+SQL> grant connect to U8203181305 ;
+
+Grant succeeded.
+
+SQL> grant connect to U01;
+
+Grant succeeded.
+
+SQL> grant connect to U02;
+
+Grant succeeded.
+
+SQL> grant connect to U03;
+
+Grant succeeded.
